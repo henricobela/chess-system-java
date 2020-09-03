@@ -114,7 +114,7 @@ public class UI {
 		System.out.print(Arrays.toString(white.toArray()));
 		System.out.println(ANSI_RESET);
 
-		//System.out.println("Captured pieces:");
+		// System.out.println("Captured pieces:");
 		System.out.print("BLACK: ");
 		System.out.print(ANSI_YELLOW);
 		System.out.print(Arrays.toString(black.toArray()));
